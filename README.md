@@ -1,2 +1,2 @@
 # picgoimagehosting
-Personal Image Hosting for PicGO
+Personal Image Hosting for PicGo.
