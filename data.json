@@ -1,0 +1,7 @@
+#This is the PicGo Setting bakfile.
+"github": {
+      "branch": "master",
+      "customUrl": "https://raw.githubusercontent.com/HackettHsu/picgoimagehosting/master",
+      "path": "img/",
+      "repo": "HackettHsu/picgoimagehosting",
+      "token": ""
